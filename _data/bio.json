@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Chris Dang",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/image_6487327 (1).JPG",
+    "email": "cdang808@hawaii.edu",
+    "phone": "808-799-0600",
+    "website": "https://chris-dang.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences as well as a B.A in Animation in the Academy of Creative Media at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,31 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "chris-dang",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "cdang",
+        "url": "www.linkedin.com/in/chris-dang808"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cyber Security",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "3d Modeling",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Video Game Devleopment",
       "keywords": [
       ]
     }
@@ -59,34 +49,30 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "1",
       "keywords": [
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "1",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science and ACM:Animation (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-07-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,69 +81,82 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii John A. Burns School of Medcine",
+      "position": "Anatomical Modeler",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-08-25",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Topologize and render high resolution models of human anatomy using z-brush and subsatance painter.",
+        "Models are uploaded to Sketchfab and other platorms for UH JABSOM"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Conduent",
+      "position": "Techical Helpdesk Associate II",
+      "website": "",
+      "startDate": "2020-07-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Answer phone and email responses"
+      ]
+    },
+    { 
+      "company": "Mānoa Career Center",
+      "position": "Employment Services Assistant",
+      "website": "https://manoa.hawaii.edu/careercenter/",
+      "startDate": "2019-07-12",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Provide, in person and over the phone, general instruction to users of a web-based system (searching, data entry, records maintenance).",
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "r",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "2019 Hawaii Affiliate",
+      "date": "2019",
+      "awarder": "NCWIT",
+      "summary": "Awarded to women who show aptitude and interest in IT and computing, solid leadership ability, good academic history, and plans for post-secondary education."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "The Walt Disney AANAPISI Scholarship",
+      "date": "2019-2020",
+      "awarder": "Asian & Pacific Islander American Scholarship Fund",
+      "website": "https://apiascholars.org/scholarship/aanapisi-scholarship/",
+      "summary": "Scholarship awarded to Asian American and Pacific Islanders. Futher infomation will be on the website."
     }
   ],
   "references": [
