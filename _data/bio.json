@@ -119,7 +119,7 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "The Association for Computing Machinery at the University of Hawaii at Manoa",
       "website": "https://acmanoa.github.io/",
       "position": "Secretary",
       "startDate": "2020-08",
@@ -155,8 +155,7 @@
       "title": "The Walt Disney AANAPISI Scholarship",
       "date": "2019-2020",
       "awarder": "Asian & Pacific Islander American Scholarship Fund",
-      "website": "https://apiascholars.org/scholarship/aanapisi-scholarship/",
-      "summary": "Scholarship awarded to Asian American and Pacific Islanders. Futher infomation will be on the website."
+      "summary": "Scholarship awarded to Asian American and Pacific Islanders. Futher infomation will be on the website(https://apiascholars.org/scholarship/aanapisi-scholarship/)."
     }
   ],
   "references": [
