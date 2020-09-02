@@ -2,15 +2,16 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: The Unitled Game
+permalink: projects/theunitledgame
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-02-02
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Unity
+  - Java
+  - Blender
+  - Maya
+summary: My team developed a simulation-strategy game for Global Game Jam 2020.
 ---
 
 <div class="ui small rounded images">
