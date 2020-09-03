@@ -31,4 +31,4 @@ Here is some snapshots of our game:
 
 You can learn more at the [Make Bagel](https://zaxer2.itch.io/make-bagel).
 
-Source: <a href="https://github.com/spyhi/GMTK-2020-Team-Hawaii-3D"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/spyhi/GMTK-2020-Team-Hawaii-3D"><i class="large github icon"></i>spyhi/GMTK-2020-Team-Hawaii-3D</a>
