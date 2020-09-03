@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logan.png
+image: images/logan300.png
 title: Goodnight, Logan
 permalink: projects/goodnightlogan
 # All dates must be YYYY-MM-DD format!
