@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/theugame.png
+image: images/untitled300.png
 title: The Untitled Game
 permalink: projects/theunitledgame
 # All dates must be YYYY-MM-DD format!
