@@ -20,5 +20,15 @@ Make Bagel is a game centered around a man who is trying to toast his morning ba
 
 I was one of the modelers on my team for this projects. I made simple items such as a simple room, tables, cabinet for the game using Autodesk Maya and Blender. The models were a tag-team effort made between me and my partner.
 
+Here is some snapshots of our game:
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/room.png">
+  <img class="ui image" src="../images/room2.png">
+  <img class="ui image" src="../images/roommodel.png">
+  <img class="ui image" src="../images/chairs.png">
+</div>
+
+You can learn more at the [Make Bagel](https://zaxer2.itch.io/make-bagel).
 
 Source: <a href="https://github.com/spyhi/GMTK-2020-Team-Hawaii-3D"><i class="large github icon"></i>theVacay/vacay</a>
