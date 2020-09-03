@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bagel.png
+image: images/bagel300.png
 title: Make Bagel
 permalink: projects/makebagel
 # All dates must be YYYY-MM-DD format!
