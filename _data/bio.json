@@ -18,11 +18,11 @@
       {
         "network": "github",
         "username": "chris-dang",
-        "url": "http://github.com/changeme"
+        "url": "https://github.com/chris-dang"
       },
       {
         "network": "linkedin",
-        "username": "cdang",
+        "username": "Chris Dang",
         "url": "www.linkedin.com/in/chris-dang808"
       }
     ]
@@ -31,13 +31,15 @@
     {
       "name": "Cyber Security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
       "name": "3d Modeling",
       "keywords": [
+        "Maya",
+        "Blender",
+        "zBrush",
+        "Substance Painter"
       ]
     },
     {
