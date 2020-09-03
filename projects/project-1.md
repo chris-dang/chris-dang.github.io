@@ -25,7 +25,6 @@ Here is some snapshots of our game:
 <div class="ui small rounded images">
   <img class="ui image" src="../images/untitledgamemenu.png">
   <img class="ui image" src="../images/cursed.png">
-  <img class="ui image" src="../images/octoun.png">
   <img class="ui image" src="../images/otcomom.png">
 </div>
 
