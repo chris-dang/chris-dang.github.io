@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/bagel.png
 title: Make Bagel
 permalink: projects/makebagel
 # All dates must be YYYY-MM-DD format!
@@ -20,5 +20,5 @@ Make Bagel is a game centered around a man who is trying to toast his morning ba
 
 I was one of the modelers on my team for this projects. I made simple items such as a simple room, tables, cabinet for the game using Autodesk Maya and Blender. The models were a tag-team effort made between me and my partner.
 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+
+Source: <a href="https://github.com/spyhi/GMTK-2020-Team-Hawaii-3D"><i class="large github icon"></i>theVacay/vacay</a>
