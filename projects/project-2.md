@@ -14,7 +14,7 @@ labels:
 summary: A game developed by my team for Game Maker Tool's Kit Game Jam 2020.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/bagelman.jpg">
 
 Make Bagel is a game centered around a man who is trying to toast his morning bagel. Unfortunately due to unfortunate uncontrollable circumstances the player keeps blacking out making it harder for him to do this simple task. The game is designed to be a puzzle simulation made in Unity.
 
