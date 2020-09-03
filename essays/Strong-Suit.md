@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/snail.png">
+<img class="ui medium left floated image" src="../images/Software-Engineer.png">
 
 ## “Software engineering is an extremely expansive term that incorporates various fields”
 
