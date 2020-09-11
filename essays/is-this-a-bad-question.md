@@ -25,16 +25,11 @@ Try to find an answer by:
 
 ## Smart, very smart...
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
-
-As we dissect this question, we can see that the individual posing the inquiry has been taking a shot at this issue. This can be appeared by the broad measure of models and experimentation that has just been done and given. They have been contemplating this for some time and are eventually puzzled. Another thing is the question is straightforward and to the point as the user utilizes space and embeds code blocks between sentences.
-
-<img class="ui medium left floated image" src="../images/good.png">
-
+As we dissect [this](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) question, we can see that the individual posing the inquiry has been taking a shot at this issue. This can be appeared by the broad measure of models and experimentation that has just been done and given. They have been contemplating this for some time and are eventually puzzled. Another thing is the question is straightforward and to the point as the user utilizes space and embeds code blocks between sentences.
 
 ## How to get Ignored 101 
 
-This is a case of how not to pose inquiries. Most importantly, the inquirer didn't endeavor to look for the arrangement himself/herself or provide further information. This title isn't just marginally ambiguous. However, it likewise utilizes the erroneous sentence structure. This can divert individuals off from tapping the inquiry and answering it. For those that aren't turned away by the dubiousness and inaccurate language, the extra data connected to the question is comparatively somewhat ambiguous, utilizes off base sentence structure, and doesn't give a great deal of detail their concern. 
+[This](https://stackoverflow.com/questions/56211119/can-help-me-about-execute-sql-in-java) is a case of how not to pose inquiries. Most importantly, the inquirer didn't endeavor to look for the arrangement himself/herself or provide further information. This title isn't just marginally ambiguous. However, it likewise utilizes the erroneous sentence structure. This can divert individuals off from tapping the inquiry and answering it. For those that aren't turned away by the dubiousness and inaccurate language, the extra data connected to the question is comparatively somewhat ambiguous, utilizes off base sentence structure, and doesn't give a great deal of detail their concern. 
 
 <img class="ui medium left floated image" src="../images/bad.png">
 
