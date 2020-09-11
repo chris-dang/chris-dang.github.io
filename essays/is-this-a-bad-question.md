@@ -31,8 +31,6 @@ As we dissect [this](https://stackoverflow.com/questions/11227809/why-is-process
 
 [This](https://stackoverflow.com/questions/56211119/can-help-me-about-execute-sql-in-java) is a case of how not to pose inquiries. Most importantly, the inquirer didn't endeavor to look for the arrangement himself/herself or provide further information. This title isn't just marginally ambiguous. However, it likewise utilizes the erroneous sentence structure. This can divert individuals off from tapping the inquiry and answering it. For those that aren't turned away by the dubiousness and inaccurate language, the extra data connected to the question is comparatively somewhat ambiguous, utilizes off base sentence structure, and doesn't give a great deal of detail their concern. 
 
-<img class="ui medium left floated image" src="../images/bad.png">
-
 ## Conclusion
 
 When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
