@@ -12,7 +12,7 @@ labels:
 
 ## Yes, there are such things as dumb questions!
 
-There are "no such things as dumb questions" we have heard this thousands of times before. This saying is regularly heard in classrooms when instructors are attempting to urge students to interact during exercises. They encourage students to questions and guarantee there is no such thing as a dumb question. As maybe Eric Steven Raymond, the creator of How to Ask Questions the Smart Way, would tend to disagree. His paper clarifies what brilliant inquiries are and how, when, and where to ask them.
+There are "no such things as dumb questions" we have heard this thousands of times before. This saying is regularly heard in classrooms when instructors are attempting to urge students to interact during exercises. They encourage students to questions and guarantee there is no such thing as a dumb question. Eric Steven Raymond, the creator of How to Ask Questions the Smart Way, would tend to disagree. His paper clarifies what brilliant inquiries are and how, when, and where to ask them.
 
 Try to find an answer by:
 1. searching the archives of the forum or mailing list that we plan to post to.
