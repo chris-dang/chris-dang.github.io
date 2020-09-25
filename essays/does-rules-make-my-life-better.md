@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:Does Rules Make My Life Better?
+title: Does Rules Make My Life Better?
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-24
 labels:
