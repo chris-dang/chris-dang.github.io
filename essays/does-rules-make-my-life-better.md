@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium left floated image" src="../images/Software-Engineer.png">
+<img class="ui medium left floated image" src="../images/code.jpg">
 
 ## “That Stupid Curly Bracket...Semicolon”
 
