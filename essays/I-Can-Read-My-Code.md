@@ -10,7 +10,7 @@ labels:
 ---
 
 
-<img class="ui medium left floated image" src="../images/ui.jpeg">
+<img class="ui medium left floated image" src="../images/ui.jpg">
 
 ## “Clean and Crispy”
 
