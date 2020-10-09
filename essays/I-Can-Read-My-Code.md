@@ -9,6 +9,9 @@ labels:
   - Learning 
 ---
 
+
+<img class="ui medium left floated image" src="../images/ui.jpeg">
+
 ## “Clean and Crispy”
 
 There's a need of web designers for the normal software engineers since web engineers appear to know
