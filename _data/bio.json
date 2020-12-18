@@ -72,7 +72,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science and ACM:Animation (expected Spring, 2023)",
+      "area": "Computer Science: Cybersecurity (expected Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2019-07-01",
       "endDate": "Present",
@@ -87,7 +87,7 @@
       "position": "Anatomical Modeler",
       "website": "",
       "startDate": "2020-08-25",
-      "endDate": "Present",
+      "endDate": "2020-10-25",
       "summary": "",
       "highlights": [
         "Topologize and render high resolution models of human anatomy using z-brush and subsatance painter.",
@@ -95,15 +95,14 @@
       ]
     },
     {
-      "company": "Conduent",
-      "position": "Techical Helpdesk Associate II",
+      "company": "Department of Defense: DISA",
+      "position": "IT Cybersecurity Specialist",
       "website": "",
       "startDate": "2020-07-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses"
+        "Troubleshoot software, hardware and monitoring, detecting, investigating, analyzing, and responding to security events",
       ]
     },
     { 
