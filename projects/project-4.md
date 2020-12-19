@@ -28,11 +28,11 @@ I came up with the idea for this project are can read more about it [here] (http
 I worked mostly as the front end of the development as I was the one who designed the mock up and the initial theme of the application. I wanted to make something that revolved around the idea of “close to home” . All the pictures used were taken all around the island.  I also work a bit with the back end if needed. Each one of us stuck with a particular element of the project in order to finish it efficiently. Although if needed we all hopped around and helped each other when needed. For example I would have finished one of my milestones and assisted someone else if they needed. But overall most of the time I’ve been working on the whole front end implementation all the time to mitigate the problems that we might encounter.
 
 *Mock Ups*
-<img class="ui medium left floated image" src="../images/1.jpg">
-<img class="ui medium left floated image" src="../images/2.jpg">
-<img class="ui medium left floated image" src="../images/3.jpg">
-<img class="ui medium left floated image" src="../images/4.jpg">
-<img class="ui medium left floated image" src="../images/6.jpg">
+<img class="ui medium left floated image" src="../images/1.png">
+<img class="ui medium left floated image" src="../images/2.png">
+<img class="ui medium left floated image" src="../images/3.png">
+<img class="ui medium left floated image" src="../images/4.png">
+<img class="ui medium left floated image" src="../images/6.png">
 
 *Final Products* 
 <img class="ui medium left floated image" src="../images/landing_2.jpg">
