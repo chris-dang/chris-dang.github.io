@@ -35,11 +35,11 @@ I worked mostly as the front end of the development as I was the one who designe
 <img class="ui floated image" src="../images/6.png">
 
 *Final Products* 
-<img class="ui medium left floated image" src="../images/landing_2.jpg">
-<img class="ui medium left floated image" src="../images/home.jpeg">
-<img class="ui medium left floated image" src="../images/login.2.png">
-<img class="ui medium left floated image" src="../images/forumpage0.png">
-<img class="ui medium left floated image" src="../images/websitespage0.png">
+<img class="ui floated image" src="../images/landing_2.jpg">
+<img class="ui floated image" src="../images/home.jpeg">
+<img class="ui floated image" src="../images/login.2.png">
+<img class="ui floated image" src="../images/forumpage0.png">
+<img class="ui floated image" src="../images/websitespage0.png">
 
 
 You can learn more at the [Coping With Covid](https://coping-with-covid.github.io/).
